@@ -1,0 +1,53 @@
+--query for inserting categories
+
+
+INSERT INTO "Categories" ("Name") VALUES
+('Programming'),
+('Data'),
+('Business'),
+('Design'),
+('Marketing'),
+('Language'),
+('Personal');
+
+
+-- query for inserting courses
+
+
+INSERT INTO "Courses" ("Title" , "Duration" , "Description" , "Images" , "Instructor" , "CourseInfo" , "Rating" , "CategoryID", "CourseLink") VALUES
+-- Programming (CategoryID = 1)
+('C# Fundamentals', '5 hours', 'Learn the basics of C# and .NET development.', 'assets/images/cCourse.jpg', 'John Doe', 'Comprehensive C# course for beginners.', 4.5, 1, 'https://www.youtube.com/embed/GhQdlIFylQ8'),
+('Java for Beginners', '4 hours', 'An introduction to Java programming.', 'assets/images/javaCourse.png', 'Jane Smith', 'Learn Java from scratch.', 4.6, 1, 'https://www.youtube.com/embed/eIrMbAQSU34'),
+('Python Masterclass', '6 hours', 'Learn Python from beginner to advanced level.', 'assets/images/pythonCourse.jpeg', 'Alex Johnson', 'Master Python programming.', 4.8, 1, 'https://www.youtube.com/embed/_uQrJ0TkZlc'),
+('Web Development Bootcamp', '23 hours', 'Full-stack web development.', 'assets/images/bootcampCourse.png', 'Emily White', 'Learn HTML, CSS, JavaScript & more.', 4.7, 1, 'https://www.youtube.com/embed/MDZC8VDZnV8'),
+
+-- Data (CategoryID = 2)
+('Data Science Basics', '4 hours', 'Learn the foundations of data science.', 'assets/images/dataScienceCourse.jpeg', 'Michael Brown', 'Intro to data analytics and visualization.', 4.6, 2, 'https://www.youtube.com/embed/bQZk18rke2o'),
+('SQL & Databases', '4 hours', 'Master SQL queries and database management.', 'assets/images/sqlCourse.png', 'David Wilson', 'Learn relational databases.', 4.5, 2, 'https://www.youtube.com/embed/HXV3zeQKqGY'),
+('Machine Learning with Python', '18 hours', 'Build AI models with Python.', 'assets/images/pythonMachineLearningCourse.jpeg', 'Sophia Davis', 'Introduction to machine learning concepts.', 4.7, 2, 'https://www.youtube.com/embed/hDKCxebp88A'),
+('Big Data Analytics', '10 hours', 'Explore large-scale data processing techniques.', 'assets/images/dataAnalyticsCourse.jpeg', 'Chris Martinez', 'Learn Apache Spark & Hadoop.', 4.6, 2, 'https://www.youtube.com/embed/OP8BsGnqi9c'),
+
+-- Business (CategoryID = 3)
+('Entrepreneurship 101', '6 hours', 'Learn how to start and grow a business.', 'assets/images/entrepreneurshipCourse.png', 'Sarah Lee', 'Turn ideas into businesses.', 4.5, 3, 'https://www.youtube.com/embed/UEngvxZ11sw'),
+('Financial Management', '8 hours', 'Basics of budgeting and investing.', 'assets/images/financialCourse.png', 'Daniel Clark', 'Manage personal and business finances.', 4.7, 3, 'https://www.youtube.com/embed/pamytSfNlE0'),
+('Leadership & Management', '1 hour', 'Develop leadership skills.', 'assets/images/leadershipCourse.jpeg', 'Robert Hall', 'Improve team management.', 4.6, 3, 'https://www.youtube.com/embed/qzoIAJYPQwo'),
+('E-commerce Strategies', '18 hours', 'Start and scale your online business.', 'assets/images/ecomerceCourse.jpeg', 'Olivia Lewis', 'Sell products online effectively.', 4.5, 3, 'https://www.youtube.com/embed/rqGNDT_utao'),
+
+-- Design (CategoryID = 4)
+('Graphic Design Basics', '6 weeks', 'Introduction to Photoshop, Illustrator, and Canva.', 'assets/images/graphicDesignCourse.jpeg', 'Emma Walker', 'Learn the fundamentals of graphic design.', 4.7, 4, 'https://www.youtube.com/embed/GQS7wPujL2k'),
+('UX/UI Design Principles', '8 weeks', 'Create user-friendly designs.', 'assets/images/UIUXCourse.jpeg', 'James Harris', 'Master UI/UX best practices.', 4.8, 4, 'https://www.youtube.com/embed/cvm_ECH94x4'),
+('Video Editing & Animation', '10 weeks', 'Learn Premiere Pro and After Effects.', 'assets/images/videoEditingCourse.jpeg', 'Ava Allen', 'Make high-quality videos.', 4.6, 4, 'https://www.youtube.com/embed/ONSuPcRgqSs'),
+('Branding & Visual Identity', '5 weeks', 'Build a strong brand presence.', 'assets/images/brandingCourse.png', 'Liam Young', 'Create memorable brands.', 4.5, 4, 'https://www.youtube.com/embed/h-eRwbbpfxo'),
+
+-- Marketing (CategoryID = 5)
+('Social Media Marketing', '6 weeks', 'Strategies for growing on social platforms.', 'assets/images/socialMediaMarketingCourse.jpeg', 'Mia King', 'Increase social media engagement.', 4.7, 5, 'https://www.youtube.com/embed/LusRWlygGIk'),
+('Google Ads & PPC Campaigns', '8 weeks', 'Learn paid advertising strategies.', 'assets/images/googleAddCourse.jpeg', 'Charlotte Nelson', 'Run successful ad campaigns.', 4.7, 5, 'https://www.youtube.com/embed/_47prikuh_I'),
+
+-- Language (CategoryID = 6)
+('English for Beginners', '6 weeks', 'Improve basic English skills.', 'assets/images/english.jpeg', 'Grace Evans', 'Learn to communicate effectively.', 4.5, 6, 'https://www.youtube.com/embed/QXVzmzhxWWc'),
+('Spanish in 30 Days', '4 weeks', 'Learn conversational Spanish.', 'assets/images/spanishCourse.jpeg', 'Alexander Torres', 'Master Spanish basics.', 4.6, 6, 'https://www.youtube.com/embed/JTrjZNspkWA'),
+('French for Travelers', '5 weeks', 'Essential phrases for travel.', 'assets/images/frenchCourse.jpeg', 'Sebastian Cooper', 'Speak confidently while traveling.', 4.5, 6, 'https://www.youtube.com/embed/Sk6YQynZ1h8'),
+
+-- Personal (CategoryID = 7)
+('Time Management & Productivity', '5 weeks', 'Improve efficiency and productivity.', 'assets/images/productivityCourse.jpeg', 'Andrew Morris', 'Master time management skills.', 4.6, 7, 'https://www.youtube.com/embed/2Si7ah_h32s'),
+('Public Speaking & Confidence', '6 weeks', 'Become a better speaker.', 'assets/images/publicSpeakingCourse.jpeg', 'Natalie Bennett', 'Speak confidently in public.', 4.7, 7, 'https://www.youtube.com/embed/dHAbmoFHqgA');

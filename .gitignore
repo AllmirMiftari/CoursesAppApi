@@ -1,0 +1,66 @@
+## ASP.NET
+# User-specific files
+.idea/
+.vs/
+.vscode/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]evelopment/
+[Dd]ebug-*/ 
+[Dd]ist-*/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.dbmdl
+*.appsettings.json
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows Installer files
+*.pdb
+
+# Windows Installer files
+*.exe
+*.dll
+
+# ASP.NET Core specific
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# NPM packages
+node_modules/
+
+# Web.config is often generated from web.config.transform in dev environments, add only if generated locally
+web.config
+web.debug.config
+web.release.config
+
+# VS for Mac
+.vscode/
+
+# ASP.NET Identity
+AspNet.Identity.Core/
+
+# Azure publish settings files
+PublishSettings/
+
+# SQL Server files
+*.mdf
+*.ldf
+
+# JetBrains Rider files
+.idea/
+
+# .NET Core specific
+.vscode/
