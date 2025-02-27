@@ -1,0 +1,476 @@
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.Development.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.deps.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.runtimeconfig.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Humanizer.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.AssemblyReference.cache
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfoInputs.cache
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfo.cs
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CoreCompileInputs.cache
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cs
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cache
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.OnlineCoursesApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineCoursesApi.props
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineCoursesApi.props
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineCoursesApi.props
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/scopedcss/bundle/OnlineCoursesApi.styles.css
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CopyComplete
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/refint/OnlineCoursesApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.genruntimeconfig.cache
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/ref/OnlineCoursesApi.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.sourcelink.json
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/allmir/Desktop/Project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.AssemblyReference.cache
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfoInputs.cache
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfo.cs
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CoreCompileInputs.cache
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cs
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cache
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.sourcelink.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.Development.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.deps.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.runtimeconfig.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Humanizer.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.OnlineCoursesApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/scopedcss/bundle/OnlineCoursesApi.styles.css
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CopyComplete
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/refint/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.genruntimeconfig.cache
+/home/allmir/Desktop/Copied project/OnlineCoursesApi/obj/Debug/net8.0/ref/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/appsettings.Development.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/appsettings.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.deps.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.runtimeconfig.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Humanizer.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Npgsql.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.AssemblyReference.cache
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfoInputs.cache
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfo.cs
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CoreCompileInputs.cache
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cs
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cache
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.sourcelink.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.OnlineCoursesApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineCoursesApi.props
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/scopedcss/bundle/OnlineCoursesApi.styles.css
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CopyComplete
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/refint/OnlineCoursesApi.dll
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.genruntimeconfig.cache
+/home/allmir/Desktop/Copied project/CopiedOnlineCoursesApi/obj/Debug/net8.0/ref/OnlineCoursesApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.Development.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/appsettings.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.deps.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.runtimeconfig.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Humanizer.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.JsonPatch.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.Extensions.DependencyModel.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Abstractions.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Logging.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.IdentityModel.Tokens.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Mono.TextTemplating.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Newtonsoft.Json.Bson.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.CodeDom.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.AttributedModel.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Convention.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Hosting.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.Runtime.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.Composition.TypedParts.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/System.IdentityModel.Tokens.Jwt.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/bin/Debug/net8.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.AssemblyReference.cache
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.GeneratedMSBuildEditorConfig.editorconfig
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfoInputs.cache
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.AssemblyInfo.cs
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CoreCompileInputs.cache
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cs
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.MvcApplicationPartsAssemblyInfo.cache
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.sourcelink.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.build.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.development.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.OnlineCoursesApi.Microsoft.AspNetCore.StaticWebAssets.props
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.build.OnlineCoursesApi.props
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.OnlineCoursesApi.props
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.OnlineCoursesApi.props
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/staticwebassets.pack.json
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/scopedcss/bundle/OnlineCoursesApi.styles.css
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.csproj.CopyComplete
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/refint/OnlineCoursesApi.dll
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.pdb
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/OnlineCoursesApi.genruntimeconfig.cache
+/home/allmir/Desktop/dotnet project/OnlineCoursesApi/obj/Debug/net8.0/ref/OnlineCoursesApi.dll
